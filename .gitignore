@@ -5,7 +5,7 @@ venv/
 
 # PyCharm settings
 .idea/
-
+clear
 # Large machine learning models
 *.joblib
 *.h5
@@ -14,3 +14,4 @@ venv/
 
 # DO NOT UPLOAD THE HARVESTED HUMAN TEXTS
 genuine_human_texts/
+modern_ai_texts/
