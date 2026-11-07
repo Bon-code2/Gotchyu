@@ -1,0 +1,22 @@
+7. The Gravity Model of Trade
+Paper: International Economics (ECNCC301) | Unit: I | Topic: The gravity model
+Introduction
+The gravity model is the most successful empirical tool in international trade. Borrowed from Newton's law of gravitation, it was first applied to trade by Jan Tinbergen (1962) and Pöyhönen (1963).
+The basic equation
+Bilateral trade between countries i and j is proportional to their economic sizes and inversely proportional to the distance between them:
+T_{ij} = A \cdot \frac{Y_i \, Y_j}{D_{ij}}
+Here T is the trade volume, Y is GDP and D is distance. In log-linear form, ln T = a + b1 ln Y_i + b2 ln Y_j - b3 ln D_ij + e, which can be estimated by regression. Typically b1 and b2 are near 1 and b3 is near 1.
+Logic
+Larger economies produce more to sell and demand more to buy, so they trade more. Distance proxies for transport costs, time, information costs and cultural differences, so it reduces trade.
+Extensions
+Augmented models add dummy variables for common border, common language, colonial links, trade agreements, common currency and tariff barriers. Anderson and van Wincoop (2003) added "multilateral resistance": bilateral trade depends on trade costs relative to costs with all other partners. Modern versions include GDP per capita and use fixed effects.
+Theoretical foundations
+The gravity equation can be derived from Ricardian, H-O and monopolistic competition models (Anderson, Bergstrand, Helpman-Krugman), so its success is consistent with many theories.
+Applications
+• Estimating the effect of trade agreements, currency unions and WTO membership.
+• Measuring border effects (McCallum found Canadian provinces traded about 20 times more with each other than with US states).
+• Predicting potential trade and identifying under-trading partners.
+Limitations
+It lacks a unique theoretical basis in its simple form, treats distance as a single measure, and is affected by zero trade flows, handled with PPML estimation.
+Conclusion
+The gravity model combines strong empirical fit with policy relevance, and is the workhorse for analysing trade patterns and trade policy.

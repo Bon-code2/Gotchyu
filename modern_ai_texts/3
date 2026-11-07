@@ -1,0 +1,16 @@
+3. The Specific Factors Model
+Paper: International Economics (ECNCC301) | Unit: I | Topic: Specific factors model
+Introduction
+The Heckscher–Ohlin model assumes every factor can move freely between industries. In reality, much capital and some skills are stuck in one sector in the short run. The specific factors model (Jacob Viner, Paul Samuelson, Ronald Jones) analyses trade and income distribution when some factors are sector-specific.
+The setup
+There are two goods, manufactures and food. Labour is mobile between sectors. Capital is specific to manufactures, and land is specific to agriculture. Each good has diminishing marginal returns to labour because the specific factor is fixed.
+Labour allocation
+The wage equals the value of the marginal product of labour in each sector: w = P_M x MPL_M = P_F x MPL_F. Graphically, the two VMPL curves are drawn against total labour supply, and the intersection fixes the wage and the allocation of labour.
+Effects of a change in relative price
+Suppose the price of manufactures rises (for example, due to opening to trade). The VMPL curve of manufactures shifts up, labour moves into manufactures, and the wage rises, but by less than the price rise. Result: (i) the owners of capital, the specific factor of the expanding sector, gain in real terms; (ii) the owners of land lose; (iii) labour is ambiguous, because the nominal wage rises less than P_M but more than P_F, so real wage gains depend on consumption patterns.
+Distributional implications
+The model explains why owners of specific factors lobby: they gain or lose in proportion to their industry's fortunes, while mobile factors have mixed interests. Gains of winners exceed losses of losers, so trade still has net gains.
+Evaluation
+The model is a short-run analysis; over time capital can move, converging to H-O results. It fits well with political economy of trade policy, explaining why protection is sought by import-competing industries.
+Conclusion
+The specific factors model shows that the effects of trade fall more on factor owners tied to a sector than on the nation as a whole, adding realism to income distribution analysis.

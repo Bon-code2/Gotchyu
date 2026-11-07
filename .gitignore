@@ -1,0 +1,16 @@
+# Python caches and environments
+__pycache__/
+venv/
+.env
+
+# PyCharm settings
+.idea/
+
+# Large machine learning models
+*.joblib
+*.h5
+*.pt
+*.bin
+
+# DO NOT UPLOAD THE HARVESTED HUMAN TEXTS
+genuine_human_texts/

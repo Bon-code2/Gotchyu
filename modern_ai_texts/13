@@ -1,0 +1,21 @@
+13. Import Tariff: Partial and General Equilibrium Effects, Optimum Tariff
+Paper: International Economics (ECNCC301) | Unit: III | Topic: Partial equilibrium effects of an import tariff, General equilibrium effects of an import tariff, Optimum tariff
+Introduction
+A tariff is a tax on imports. It is the oldest and most common trade barrier. Its effects can be analysed in partial equilibrium (a single market) and general equilibrium (the whole economy).
+Partial equilibrium: small country
+For a small country facing a fixed world price P_w, a tariff t raises the domestic price to P_w + t. Effects:
+• Consumption falls (consumer surplus lost).
+• Domestic production rises (producer surplus gained).
+• Imports fall.
+• Government earns revenue = t x imports.
+The net loss is two triangles: the production (protection) cost from inefficient domestic production, and the consumption cost from distorted consumption. Net welfare loss = production triangle + consumption triangle.
+Partial equilibrium: large country
+A large country influences world price. A tariff reduces its import demand, so the world price falls and part of the tariff is paid by foreign exporters. The terms-of-trade gain may exceed the two deadweight triangles, so the country can gain. The domestic price rises by less than the tariff.
+Concepts
+• Nominal tariff versus effective rate of protection: the effective rate measures protection on value added: EPR = (t_i - sum a_ij t_j) / (1 - sum a_ij). Tariff escalation gives high protection on processed goods.
+General equilibrium effects
+In a small country, a tariff shifts relative prices toward the import-competing good, production moves toward it along the PPF, and the community indifference curve falls to a lower level: welfare declines. Revenue redistributed to consumers shifts consumption. The Stolper-Samuelson theorem implies the scarce factor gains and the abundant factor loses. The Metzler paradox is a possible case where the tariff lowers the domestic price of the protected good (large country, inelastic demand).
+Optimum tariff
+For a large country, the optimum tariff maximises welfare by balancing the terms-of-trade gain against the volume-of-trade loss. Its formula is t* = 1/e, where e is the foreign elasticity of export supply. The tariff is zero for a small country (e is infinite). Retaliation by partners may leave everyone worse off, a prisoner's dilemma that motivates trade agreements.
+Conclusion
+A tariff lowers welfare for a small country but may raise it for a large one at its partners' expense, so international agreement is needed to avoid tariff wars.

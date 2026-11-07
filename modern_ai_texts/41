@@ -1,0 +1,16 @@
+41. Tax Incidence
+Paper: Public Finance (ECNCC303) | Unit: III | Topic: Tax incidence – partial equilibrium view of product and factor taxes, general equilibrium, modern views, measure of incidence
+Introduction
+Tax incidence is the study of who ultimately bears the burden of a tax. The legal obligation to pay (statutory incidence) can differ from the economic burden (economic incidence), because prices and quantities adjust.
+Partial equilibrium: product taxes
+A per-unit tax on sellers shifts the supply curve up by t. The market price paid by buyers rises, and the price received by sellers falls. The burden shares depend on elasticities: consumer share = e_s / (e_s + |e_d|), producer share = |e_d| / (e_s + |e_d|). The side that is less elastic bears more. Special cases: perfectly inelastic demand (necessities such as salt): consumers bear the whole tax; perfectly elastic demand: producers bear it. It does not matter whether the tax is levied on buyers or sellers. Ad valorem taxes behave similarly. Under monopoly, the burden depends on the demand curve; with constant elasticity demand, the monopolist raises price by more than the tax.
+Partial equilibrium: factor taxes
+A tax on labour (payroll tax) is shared between workers and employers depending on the elasticities of labour supply and demand. With inelastic labour supply, workers bear most. Property tax and capital taxes: in a closed economy the burden falls on capital in the short run but may shift to labour in the long run in open economies, where capital is mobile.
+General equilibrium incidence (Harberger, 1962)
+A tax in one sector affects other sectors via factor prices and substitution. In the Harberger two-sector model, a tax on capital in the corporate sector reduces the return to capital in all sectors, as capital flows to the untaxed sector, so the burden falls on all capital owners, not only corporate investors. Outcomes depend on factor intensity, substitution elasticities and demand patterns. The output effect and factor substitution effect determine whether capital or labour bears the tax. In a small open economy with perfect capital mobility, labour may bear more of the corporate tax.
+Modern views
+Balanced budget incidence (Musgrave), differential incidence, tax capitalisation (property taxes lower land prices), and dynamic and overlapping-generations analysis (Auerbach-Kotlikoff). Behavioural and bargaining effects, plus incidence on consumers (VAT), matter.
+Measuring incidence
+Distribution of tax burden across income groups using effective tax rates and the Suits index, Lorenz and concentration curves, microsimulation. Absolute, relative and differential incidence concepts. Data limits: assumptions about shifting.
+Conclusion
+Incidence depends on market structure and elasticities, not on legal assignment, and is key in assessing the equity of tax systems.

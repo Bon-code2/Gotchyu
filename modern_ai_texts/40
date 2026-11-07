@@ -1,0 +1,21 @@
+40. Externalities and Their Remedies
+Paper: Public Finance (ECNCC303) | Unit: II | Topic: Externalities and inefficiency of externalities, remedies for externalities
+Introduction
+An externality arises when the actions of one agent affect the welfare of others without compensation through the market. Externalities are a key market failure justifying government intervention.
+Types
+• Negative externality: pollution from a factory; marginal social cost (MSC) exceeds marginal private cost (MPC).
+• Positive externality: vaccination, education, R&D; marginal social benefit (MSB) exceeds marginal private benefit (MPB).
+• Production versus consumption externalities; technological versus pecuniary externalities (only the former cause inefficiency).
+Inefficiency
+With a negative externality, firms ignore external costs, so MPC is below MSC. The market produces Q_m where MPC = demand, which exceeds the socially optimal Q* where MSC = MSB. The result is overproduction and a deadweight loss equal to the triangle between Q* and Q_m. With a positive externality, the market under-produces, since private benefits are below social benefits.
+Remedies
+1. Pigouvian tax/subsidy (Pigou): a tax equal to the marginal external damage at the optimum (t = MEC at Q*) makes producers internalise the cost. Subsidies are used for positive externalities. Difficulty: measuring marginal damage; revenue use.
+2. Regulation (command and control): standards, emission limits, bans, technology mandates. Simple and certain but inflexible and less cost-effective, as it ignores differences in abatement costs.
+3. Tradable permits (cap and trade): Dales; a cap is set and permits are traded, ensuring abatement occurs where cheapest. Examples: EU ETS, India's PAT scheme and Perform-Achieve-Trade, carbon markets. Price versus quantity debate (Weitzman): under uncertainty about costs, taxes are better if marginal benefits are flat, quantity controls if marginal damage is steep.
+4. Coase theorem (1960): if property rights are well-defined and transaction costs are low, private bargaining achieves efficiency whichever party holds the right. Limits: high transaction costs with many parties, asymmetric information, and the difficulty of assigning rights for pollution like air.
+5. Merger/internalisation: a firm absorbs the external effect (e.g., beekeeper and orchard).
+6. Public provision and moral suasion: public parks, education, awareness campaigns.
+Evaluation
+Taxes and permits are generally more efficient than regulation; the best tool depends on measurement, monitoring and political feasibility. Global externalities like climate need international agreements.
+Conclusion
+Externalities cause over- or under-production, and a mix of Pigouvian pricing, regulation, tradable rights and bargaining can restore efficiency.

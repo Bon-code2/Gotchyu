@@ -1,0 +1,22 @@
+29. Solow–Swan Model and the Golden Rule of Accumulation
+Paper: Economics of Growth and Development I (ECNCC302) | Unit: III | Topic: Solow-Swan model; golden rule of accumulation
+Introduction
+Robert Solow and Trevor Swan (1956) built the neoclassical growth model, replacing the Harrod-Domar fixed-proportions assumption with substitutable capital and labour. It remains the benchmark for growth theory.
+Assumptions
+One good; production function Y = F(K, L) with constant returns to scale and diminishing marginal returns to each input; Cobb-Douglas form common: Y = K^a L^(1-a). Constant saving rate s, depreciation d, exogenous labour growth n, and perfect competition with flexible prices.
+Per-worker form and steady state
+With k = K/L and y = f(k):
+\dot{k} = s f(k) - (n + \delta) k
+Investment per worker s f(k) raises k, while (n + d)k is the break-even investment needed to equip new workers and replace worn capital. The steady state k* satisfies s f(k*) = (n + d) k*. Because of diminishing returns, the economy converges to k* from any starting point. At the steady state, output per worker is constant, and total output grows at rate n. Per capita growth in the long run comes only from technological progress (growth rate g in labour-augmenting form, giving per-worker growth g).
+Comparative statics
+• Higher saving rate: raises k* and y* (level effect) but not long-run growth rate.
+• Higher population growth: lowers k* and y*.
+• Technological progress: raises growth of per capita output.
+Golden rule of accumulation (Phelps, 1961)
+The golden rule capital stock k_gold maximises steady-state consumption per worker: c* = f(k*) - (n + d)k*. Setting dc*/dk = 0 gives
+f'(k_{gold}) = n + \delta
+That is, the marginal product of capital net of depreciation equals the population growth rate. For Cobb-Douglas, golden-rule saving rate s = a (the capital share). If k* < k_gold the economy is under-saving (dynamically efficient) and should raise s; if k* > k_gold it is over-saving (dynamically inefficient), and lowering s increases consumption in all periods.
+Evaluation
+Strengths: simple, testable, explains conditional convergence and the role of technology. Weaknesses: technological progress is exogenous; predicts implausibly large returns to capital in poor countries (Lucas paradox); ignores institutions and human capital. Extensions: Mankiw-Romer-Weil (augmented Solow) and endogenous growth.
+Conclusion
+Solow-Swan shows that capital accumulation alone cannot sustain growth; the long run depends on technology, and policy should aim at both saving and innovation.

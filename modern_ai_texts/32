@@ -1,0 +1,28 @@
+32. Schumpeterian Growth Models
+Paper: Economics of Growth and Development I (ECNCC302) | Unit: III | Topic: Models of Schumpeterian growth
+Introduction
+Joseph Schumpeter argued that growth is driven by "creative destruction": new innovations render existing products and firms obsolete. Aghion and Howitt (1992) formalised this in a model of endogenous growth through quality-improving innovation.
+Schumpeter's ideas
+• Entrepreneurs innovate to gain temporary monopoly profits.
+• Innovation destroys old rents, so growth involves turnover.
+• Competition occurs through innovation, not prices.
+The Aghion-Howitt model
+• A single final good is produced using an intermediate input. Each innovation raises the quality (productivity) of the intermediate by a factor g > 1.
+• Research is undertaken by firms that spend on R&D; success occurs randomly (Poisson arrival rate) with probability proportional to research effort.
+• The latest innovator is a monopolist until the next innovation displaces it.
+• Growth rate = frequency of innovations x log of step size: g = l ln(g_step), where l is the arrival rate of innovations, which depends on R&D labour.
+Key properties
+1. Creative destruction effect: the expected profit from innovation is reduced by the risk of being replaced. A higher rate of future innovation lowers the incentive to innovate today.
+2. Appropriability effect: monopoly rents raise the incentive to innovate.
+3. Intertemporal spillover: future innovators build on current knowledge.
+4. Business-stealing effect: innovators capture rents from predecessors.
+Because of these, decentralised R&D can be higher or lower than socially optimal: unlike in Romer, it may be excessive.
+Implications
+• Growth is uneven and cyclical, linking growth with fluctuations.
+• Policy: patent protection, R&D subsidies, competition policy. Aghion et al. (2005) find an inverted-U relationship between competition and innovation: moderate competition best.
+• Technology gap: countries far from the frontier gain from imitation, while near-frontier economies need innovation and competition (Acemoglu, Aghion and Zilibotti: appropriate institutions).
+• Unemployment and job turnover are part of the process (Mortensen-Pissarides extension).
+Comparison with Romer
+Romer: expanding varieties, with ideas adding to the stock. Schumpeterian: quality ladder, with old goods displaced.
+Conclusion
+Schumpeterian models bring competition, turnover and institutions into growth theory, and show that innovation both creates and destroys, with important lessons for policy.

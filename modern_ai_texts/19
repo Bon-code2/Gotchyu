@@ -1,0 +1,21 @@
+19. Foreign Exchange Market: Spot, Forward, Swaps, Hedging, Speculation and Arbitrage
+Paper: International Economics (ECNCC301) | Unit: IV | Topic: Equilibrium exchange rate, spot and forward rates, currency swaps, foreign exchange risks, hedging and speculation, interest arbitrage
+Introduction
+The foreign exchange (forex) market is where currencies are bought and sold. It is the largest financial market in the world, with trillions of dollars of turnover each day.
+Equilibrium exchange rate
+The exchange rate is the price of one currency in terms of another. In a floating system, it is determined by demand and supply of foreign currency. Demand arises from imports, outward investment and remittances. Supply arises from exports, inflows and remittances received. Equilibrium is where the two curves intersect. A rise in demand for dollars causes rupee depreciation.
+Spot and forward rates
+• Spot rate: for immediate delivery (usually within two business days).
+• Forward rate: an agreed rate for delivery at a future date (one, three, six months). A currency is at a forward premium if the forward rate exceeds the spot rate, and at a discount if lower.
+Currency swaps
+A swap is the simultaneous purchase and sale of a currency for two different dates (forex swap), or an agreement to exchange principal and interest payments in different currencies over time (currency swap). Uses: funding in foreign currency, hedging, and obtaining lower borrowing costs. Central banks also use swap lines to provide liquidity.
+Foreign exchange risks
+1. Transaction risk: exchange rate change between contract and payment.
+2. Translation risk: effect on consolidated accounts.
+3. Economic risk: effect on competitiveness and future cash flows.
+Hedging and speculation
+Hedging avoids exposure through forward contracts, futures, options or swaps. Speculators take open positions to profit from expected changes. Speculation can be stabilising (buying a currency when it is cheap, which pushes it up) or destabilising (bandwagon effects, as in currency crises).
+Interest arbitrage
+Covered interest arbitrage involves investing abroad for higher interest and covering the exchange risk through a forward sale of the foreign currency. Arbitrage drives the forward premium or discount to equal the interest differential: covered interest parity, (F - S)/S = i_d - i_f. Uncovered interest parity expects the currency with higher interest to depreciate. Arbitrage ensures that exchange rates across markets are consistent.
+Conclusion
+The forex market allocates currencies, supports trade and investment, and provides tools to manage risk, though speculation can cause volatility.

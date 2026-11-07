@@ -1,0 +1,20 @@
+31. Endogenous Growth: AK Model and Romer Model
+Paper: Economics of Growth and Development I (ECNCC302) | Unit: III | Topic: Models of endogenous growth: AK model, endogenous technical change, Romer model
+Introduction
+Neoclassical theory explains long-run growth by exogenous technology. Endogenous growth theory (Romer 1986, Lucas 1988, Rebelo 1991, Romer 1990) makes growth a result of decisions within the model, such as investment in capital, human capital and research.
+The AK model
+Production: Y = AK, where K is broad capital (physical plus human) and A is a constant. There are no diminishing returns to capital. The marginal and average products of capital both equal A.
+\frac{\dot{K}}{K} = sA - \delta
+The growth rate g = sA - d depends on the saving rate: policies affecting savings, taxes and investment have permanent growth effects. There is no convergence: rich and poor economies grow at the same rate if parameters match, so initial differences persist. Justifications for constant returns to broad capital: learning by doing and knowledge spillovers (Romer 1986: each firm's investment raises knowledge for all), human capital (Lucas), and public infrastructure.
+Endogenous technical change: the Romer model (1990)
+Growth results from deliberate R&D. Key features:
+• Ideas are non-rival (one person's use does not prevent another's), so there are increasing returns at the economy level. Because of non-rivalry, the knowledge stock is an engine of growth.
+• Ideas are partially excludable through patents, giving innovators monopoly rents that reward R&D (monopolistic competition).
+• Three sectors: final goods producing with labour, human capital and a variety of intermediate capital goods; an intermediate goods sector with monopolists; and an R&D sector producing new designs: dA/dt = d H_A A.
+• The growth rate depends on the human capital employed in R&D (g = d H_A in the simple version) and is proportional to the stock of knowledge: scale effects.
+Policy implications
+Subsidise R&D and education, protect intellectual property but not excessively (static monopoly distortion), promote openness for knowledge flows, and invest in human capital. Markets under-invest in R&D because of spillovers, so growth in decentralised equilibrium is below the social optimum.
+Criticisms
+Scale effects are not supported (Jones); the AK model's lack of convergence conflicts with conditional convergence; difficulty in measuring knowledge.
+Conclusion
+Endogenous growth models show that long-run growth depends on investment in knowledge and human capital, so policy can affect it permanently.

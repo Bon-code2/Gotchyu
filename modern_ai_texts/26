@@ -1,0 +1,20 @@
+26. Measuring Development: GDP, HDI, GDI, MPI and Quality of Life Indices
+Paper: Economics of Growth and Development I (ECNCC302) | Unit: II | Topic: Measurement of development: conventional, HDI, GDI, MPI and other quality of life indices
+Introduction
+How do we compare development across countries? Early measures used income alone; later work argued that development includes health, education and freedom, leading to composite indices.
+Conventional measures
+GDP, GNI and per capita income, using PPP for comparability. Strengths: simple, available. Weaknesses: ignores distribution, non-market activity, environmental damage and quality of life, and says nothing on health and education. Other conventional measures: growth rate, structural change (share of industry), poverty headcount and Gini coefficient.
+Human Development Index (HDI)
+Introduced by UNDP (1990), inspired by Mahbub ul Haq and Amartya Sen. Three dimensions:
+1. Health: life expectancy at birth.
+2. Education: expected years of schooling and mean years of schooling.
+3. Standard of living: GNI per capita (PPP, log).
+Each dimension is converted to an index between 0 and 1 using minimum and maximum values; HDI is the geometric mean of the three (since 2010). Countries are classed as very high, high, medium or low human development. Criticisms: ignores inequality, environment and political freedom; the weights are arbitrary and the components are correlated with income.
+Related indices
+• Inequality-adjusted HDI (IHDI): discounts HDI for inequality.
+• Gender Development Index (GDI): ratio of female to male HDI, showing gender gaps in the three dimensions.
+• Gender Inequality Index (GII): reproductive health, empowerment and labour market participation.
+• Multidimensional Poverty Index (MPI): developed by Alkire and Foster (OPHI/UNDP, from 2010). Measures deprivations in 10 indicators across health (nutrition, child mortality), education (years of schooling, attendance) and living standards (cooking fuel, sanitation, drinking water, electricity, housing, assets). A person is poor if deprived in at least one-third of weighted indicators. MPI = headcount ratio (H) x intensity (A). India's NITI Aayog publishes a national MPI.
+• Others: Physical Quality of Life Index (Morris, 1979), Happiness Index, Planetary-pressures-adjusted HDI, Human Poverty Index (replaced by MPI), Genuine Savings.
+Conclusion
+No single measure captures development. GDP remains useful but should be supplemented by composite indices such as HDI and MPI that reflect the multidimensional nature of well-being.

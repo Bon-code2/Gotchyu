@@ -1,0 +1,16 @@
+30. Convergence, Total Factor Productivity and the Augmented Solow Model
+Paper: Economics of Growth and Development I (ECNCC302) | Unit: III | Topic: Absolute and conditional convergence; total factor productivity; augmented Solow model
+Introduction
+The Solow model predicts that poor countries should grow faster than rich ones. Whether the data supports this, and what explains differences in income, are central questions in empirical growth.
+Absolute convergence
+Absolute (unconditional) convergence says that, regardless of characteristics, poorer economies grow faster and catch up. It holds if all economies share the same steady state. Evidence: convergence among US states, Japanese prefectures and OECD countries (Barro and Sala-i-Martin), but not across the world: the cross-country scatter of initial income and growth is flat or positive (Baumol, De Long). Rich and poor have diverged (Pritchett's "Divergence, Big Time").
+Conditional convergence
+Economies converge to their own steady states, determined by saving rates, population growth, education and institutions. Holding these constant, countries further below their steady state grow faster. Barro regressions: growth = a - b ln(y_0) + controls; a significant negative b (about 2 per cent per year) after controls indicates conditional convergence. Convergence clubs (Quah) emerge: a poverty trap group and a rich group.
+Total factor productivity (TFP)
+TFP is the part of output growth not explained by growth in measured inputs, the Solow residual: g_Y = a g_K + (1-a) g_L + g_A. It captures technology, efficiency, institutions, organisation and measurement errors. Growth accounting finds TFP explains a substantial share of growth and an even larger share of cross-country differences in income levels (Hall and Jones; Easterly and Levine). Asian growth miracle debate: Young and Krugman argued that East Asian growth was input-driven (perspiration, not inspiration).
+Augmented Solow model (Mankiw-Romer-Weil, 1992)
+Adds human capital H to the production function: Y = K^a H^b (AL)^(1-a-b). Steady-state income depends on saving in physical capital, saving in human capital (schooling), and population growth. With a = b = 1/3, the model explains about 80 per cent of cross-country income variation and predicts a slower convergence speed, matching the data better. The elasticity of income with respect to the saving rate is larger.
+Evaluation
+Criticisms: omitted-variable and endogeneity problems, measurement of human capital, and the fact that TFP differences remain large. Still, the model demonstrates that human capital accumulation is a major driver.
+Conclusion
+Convergence is conditional, TFP differences are crucial, and including human capital improves the Solow framework, leading toward endogenous growth theories.

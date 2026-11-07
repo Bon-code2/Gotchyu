@@ -1,0 +1,29 @@
+55. Industrial Location Theories and Industrial Efficiency
+Paper: Industrial Economics (ECNDSE303) | Unit: V | Topic: Factors affecting industrial location; approaches to location analysis; Weber's theory, market area theory, central place theory; operational approaches; industrial efficiency
+Introduction
+The location of industry affects costs, markets and regional development. Location theory explains where firms locate and why industries cluster.
+Factors affecting location
+• Raw materials (weight-losing materials pull plants toward sources).
+• Market proximity, especially for perishable or weight-gaining products.
+• Transport costs, power, water and labour (cost, skills, unions).
+• Capital and finance, infrastructure, government policy (incentives, SEZs, zoning).
+• Agglomeration economies, climate, historical accident and external economies.
+Approaches
+1. Least-cost approach (Weber): locate where total cost is lowest.
+2. Market-area approach (Losch, Hotelling, Greenhut): locate to maximise profit by controlling the market area.
+3. Profit-maximisation or locational interdependence approach.
+4. Behavioural approach (Pred): satisficing, imperfect information.
+Weber's theory (1909)
+Alfred Weber sought the least-cost location for a single plant using three factors: transport cost (weight x distance), labour cost and agglomeration. Material index = weight of localised materials / weight of final product: if greater than 1, locate near materials; if less than 1, near the market. The locational triangle and isodapanes (lines of equal additional transport cost) show how labour cost differences or agglomeration can shift the location away from the minimum transport point. Critics: ignores demand, assumes fixed prices, perfect competition and a single location.
+Market area theory
+Losch (1940): firms choose locations to maximise profit, with demand falling as distance rises because of transport costs. Each firm has a hexagonal market area; locations are chosen so that market areas just fit. Hotelling's model: two sellers on a line tend to cluster at the centre (minimum differentiation). Greenhut and Isard added spatial price competition.
+Central place theory
+Christaller (1933): settlements form a hierarchy of central places providing goods and services to surrounding areas. Higher-order places offer higher-order goods with large thresholds and ranges. Hexagonal market areas arise under the K = 3 (marketing), K = 4 (transport) and K = 7 (administrative) principles. Losch generalised it to many hierarchies. Used in planning service centres. Related approaches: Renner's theory and Rawstron's principles (the factors of location include maximum spatial margins of profitability, with limits of economic viability and cost variations), plus growth poles (Perroux).
+Operational approaches
+Linear programming and transport models, input-output and gravity models, the least-cost site selection method, simulation, and GIS analysis.
+Industrial efficiency
+• Productive (technical) efficiency: producing at minimum cost, using the best technology, measured by technical efficiency (output per input; DEA, stochastic frontier). Concept of X-inefficiency.
+• Economic (allocative) efficiency: producing the goods consumers value most, at P = MC; overall economic efficiency = technical x allocative.
+• Determinants: competition, scale, technology, management, regulation and ownership.
+Conclusion
+Location theories complement each other: Weber explains cost-oriented plants, market-area theory handles demand, and central place theory explains hierarchies. Efficiency analysis assesses how well industries use resources.

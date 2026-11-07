@@ -1,0 +1,23 @@
+53. Investment Decisions and Project Appraisal
+Paper: Industrial Economics (ECNDSE303) | Unit: III | Topic: Nature and type of investment decisions; payback, NPV, IRR, social cost-benefit analysis; risk and uncertainty; replacement, inventory and market investment
+Introduction
+Investment decisions commit funds to long-term assets and shape a firm's growth and profitability. They are large, partly irreversible and uncertain, so rigorous appraisal is essential.
+Nature and types
+Types: expansion, replacement, modernisation, diversification, new products, and defensive or regulatory investments (pollution control); mutually exclusive, independent and contingent projects.
+Methods of project evaluation
+1. Payback period: time taken to recover the initial outlay. Simple and favours liquidity; ignores time value and cash flows after payback.
+2. Net Present Value (NPV):
+NPV = \sum_{t=1}^{n} \frac{C_t}{(1+r)^t} - C_0
+Accept if NPV > 0. It considers time value and all cash flows, and is additive. Needs a discount rate (cost of capital).
+3. Internal Rate of Return (IRR): the discount rate for which NPV = 0. Accept if IRR exceeds the cost of capital. Problems: multiple IRRs with non-conventional cash flows; conflicts with NPV for mutually exclusive projects (scale and timing differences); assumes reinvestment at IRR. NPV is generally preferred.
+4. Profitability index (PV of inflows / outlay) and accounting rate of return.
+Social cost-benefit analysis (SCBA)
+Assesses projects from society's viewpoint. Uses shadow prices to correct distortions, a social discount rate, includes externalities and distributional weights. Approaches: UNIDO (Dasgupta, Sen and Marglin) and Little-Mirrlees (world prices as the numeraire). Steps: identify costs and benefits, quantify, value at shadow prices, discount, and compute net social benefit (NPV), benefit-cost ratio and ERR. Problems: valuation of intangibles, choice of discount rate and weights.
+Risk and uncertainty in project appraisal
+Risk = known probabilities, uncertainty = unknown. Techniques: risk-adjusted discount rate, certainty equivalents, sensitivity analysis (change a variable and observe NPV), scenario analysis, simulation (Monte Carlo), decision trees, expected value and standard deviation, and real options.
+Other investment decisions
+• Replacement decision: replace if the equivalent annual cost of the new asset is lower than the cost of keeping the old, considering salvage value, maintenance and technology.
+• Inventory investment: the accelerator and stock-adjustment principle; EOQ model balancing ordering and carrying costs; the buffer stock motive.
+• Market investment: spending on advertising, distribution and brand to expand demand, treated as an investment because benefits are long-lasting.
+Conclusion
+NPV is the most reliable private criterion, SCBA extends the logic to social welfare, and risk analysis protects against optimistic forecasts.

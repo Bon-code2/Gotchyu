@@ -1,0 +1,27 @@
+52. Pricing in Practice
+Paper: Industrial Economics (ECNDSE303) | Unit: III | Topic: Pricing – theoretical considerations; cost-plus, variable cost, target rate of return, acceptance, going rate, group, menu pricing, bundling; pricing in public enterprises
+Introduction
+Theory says firms set price where MR = MC, but real firms lack complete information on demand, so they use rules of thumb. Hall and Hitch (1939) found most firms used full-cost pricing.
+Theoretical considerations
+Profit maximisation: set MR = MC. Pricing depends on demand elasticity: P = MC / (1 - 1/|e|), so the markup is higher when demand is inelastic. Market structure matters: price-taking in competition, price-setting under monopoly, and strategic interdependence in oligopoly (kinked demand curve, price leadership, collusion).
+Pricing in practice
+1. Cost-plus (full-cost) pricing: price = average cost + markup percentage. Simple, widely used, ensures cost recovery. Weakness: ignores demand and competition; circular.
+2. Variable (marginal) cost pricing: price covers average variable cost plus a contribution to fixed costs; used when there is excess capacity, or for additional orders, and during price wars. Risk: price below full cost in the long run.
+3. Target rate of return pricing: price = AC + (desired return on capital employed x capital)/standard output. Used by large firms (General Motors, utilities). Based on a standard volume.
+4. Acceptance pricing: small firms accept the price set by the market or leaders.
+5. Going-rate pricing: price follows the industry's prevailing level, common in oligopoly with homogeneous products.
+6. Group pricing: different prices for different groups, such as students and seniors (third-degree price discrimination); peak-load pricing.
+7. Menu pricing: customers choose among a set of options with different prices (restaurants, telecom plans), a form of self-selection (second-degree discrimination).
+8. Bundling: selling products together at one price (Microsoft Office; combo meals). Pure versus mixed bundling. Rationale: reduces dispersion of willingness to pay, extracts surplus, and deters entrants. Tying and bundling can raise competition concerns.
+9. Others: penetration and skimming pricing, limit pricing, predatory pricing, transfer pricing.
+Pricing in public enterprises
+Objectives include efficiency, equity, and revenue. Rules:
+• Marginal cost pricing is efficient but may cause losses where average cost exceeds marginal cost (natural monopoly).
+• Average cost pricing (break-even).
+• Two-part tariff: a fixed fee plus a usage charge at marginal cost.
+• Ramsey pricing: mark-ups inversely related to elasticity to cover the deficit with minimal distortion.
+• Peak-load pricing (electricity, railways).
+• Cross-subsidisation for social aims (rural telephony, passenger fares funded by freight in Indian Railways).
+• Administered prices and pricing policy committees.
+Conclusion
+Real-world pricing combines cost information, demand estimates and strategic considerations, while public pricing balances efficiency with social objectives.

@@ -1,0 +1,20 @@
+39. Public Goods, Club Goods and Local Public Goods
+Paper: Public Finance (ECNCC303) | Unit: II | Topic: Private versus public goods, club goods, local public goods
+Introduction
+The nature of a good determines whether markets can provide it efficiently. Goods are classified by two properties: rivalry and excludability.
+Private versus public goods
+• Private goods are rival (one person's use reduces availability to others) and excludable (non-payers can be barred). Example: bread. Markets work well.
+• Pure public goods are non-rival and non-excludable. Examples: national defence, street lighting, clean air.
+Because of non-excludability, people free-ride: they enjoy the good without paying, so private provision falls short. This is the free-rider problem, and the market under-supplies the good.
+Efficient provision
+For private goods, the market demand curve is the horizontal sum of individual demands, and efficiency requires price = marginal cost. For public goods, because all consume the same quantity, the social demand curve is the vertical sum of individual marginal benefits. The Samuelson condition for efficiency: the sum of marginal rates of substitution equals the marginal rate of transformation:
+\sum_i MRS_i = MRT
+Preference revelation is difficult, since individuals have incentives to understate demand. Mechanisms: Lindahl pricing, Clarke-Groves demand-revealing mechanisms, voting.
+Impure and mixed goods
+Some goods are partly rival or partly excludable: congestible public goods (roads), common-pool resources (fisheries; rival but non-excludable, leading to the tragedy of the commons), and merit goods.
+Club goods
+Buchanan (1965): goods that are non-rival up to a point but excludable, provided through voluntary membership: swimming pools, toll roads, golf courses, cable TV. The theory of clubs determines the optimal club size, where the marginal benefit of sharing costs equals the marginal congestion cost, and the optimal membership fee/toll.
+Local public goods
+Benefits are confined to a geographical area: local parks, police, roads, schools. The Tiebout hypothesis (1956) suggests that people "vote with their feet" by choosing the community offering their preferred tax-service bundle, which can reveal preferences and achieve efficiency under restrictive assumptions (mobility, many communities, full information, no spillovers). Implications: decentralisation, fiscal competition; capitalisation into property values.
+Conclusion
+Public goods require government provision or financing because of free-riding. Club and local public goods show that institutional arrangements can partly solve the problem through exclusion and mobility.

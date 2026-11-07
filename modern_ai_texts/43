@@ -1,0 +1,25 @@
+43. Optimal Taxation: Commodity Tax and Income Tax
+Paper: Public Finance (ECNCC303) | Unit: III | Topic: Optimal taxation – commodity tax and income tax
+Introduction
+Optimal taxation asks: how should a government raise a required revenue while minimising welfare loss, given that lump-sum taxes are unavailable? It balances efficiency and equity.
+Optimal commodity taxation
+Ramsey rule (1927)
+To minimise excess burden for a given revenue, tax rates should be set so that the proportional reduction in the compensated quantity demanded is the same for all goods. With independent demands, the tax rate on each good is inversely proportional to its compensated price elasticity of demand (the inverse elasticity rule):
+\frac{t_i}{p_i} \propto \frac{1}{\varepsilon_i}
+So, necessities with inelastic demand (salt, fuel) should bear higher taxes and luxuries with elastic demand lower ones. This is efficient but regressive, so equity considerations modify it.
+Corlett-Hague rule (1953)
+With labour supply, tax goods complementary to leisure more heavily (e.g., holiday goods), as an indirect way to tax leisure.
+Equity extension (Diamond-Mirrlees)
+Including distributional weights, goods consumed more by the poor receive lower rates. Production efficiency theorem: no tax on intermediate inputs; tax only final goods. Uniform commodity taxation is optimal under specific conditions (Atkinson-Stiglitz: with separable preferences, income tax suffices).
+Optimal income taxation (Mirrlees, 1971)
+Government wants to redistribute but cannot observe ability; only income is observed. A higher marginal rate discourages work, reducing the tax base, while equity calls for redistribution. Mirrlees' results:
+• Zero marginal tax rate at the top income (no distortion for the highest earner).
+• Marginal tax rates are generally modest and declining in the upper range under certain assumptions; later work (Diamond, Saez) shows U-shaped marginal rates.
+• Optimal rate depends on the elasticity of labour supply, the distribution of income and the strength of equity preferences. Saez's formula for the top rate: t = (1 - g) / (1 - g + a e), where a is a Pareto parameter and e the elasticity of taxable income.
+• Practical designs: progressive brackets, earned-income tax credits, negative income tax.
+Commodity versus income taxation
+Income taxes target equity better, while commodity taxes are easier to collect. A mix is optimal where income tax cannot capture all sources (informal economy, as in India), which explains reliance on GST.
+Limitations
+Information requirements, administrative cost, political feasibility, tax evasion, and ignoring dynamics.
+Conclusion
+Optimal tax theory shows that efficient taxes should be levied on inelastic bases and that equity concerns alter the pattern, favouring a mixture of income and commodity taxes.

@@ -1,0 +1,25 @@
+37. The Harris–Todaro Model of Urban Migration
+Paper: Economics of Growth and Development I (ECNCC302) | Unit: V | Topic: Ways to break natural resource constraints: Harris-Todaro model of urban migration
+Introduction
+Developing countries experience rapid rural-urban migration even when cities have high unemployment. Harris and Todaro (1970) explained this with an expected-income model, which also has implications for relieving pressure on rural resources.
+The puzzle
+The Lewis model assumes migrants are absorbed at the urban wage. In practice, urban unemployment and an informal sector coexist with continued migration, and rural-urban wage differences are large.
+Assumptions
+Two sectors: rural agriculture (competitive, with flexible wage) and urban manufacturing (institutionally fixed minimum wage W_u above the rural wage W_a). Migrants decide on expected urban income: the urban wage multiplied by the probability of getting a job.
+The model
+The probability of employment p = N_u / L_u (urban jobs divided by urban labour force). Migration continues until expected urban income equals the rural income:
+W_a = p \cdot W_u = \frac{N_u}{L_u} W_u
+Because W_u is fixed above the market-clearing level, equilibrium has positive urban unemployment, which is the equilibrium condition, not a disequilibrium. For example, if W_u = 100 and W_a = 40, the urban employment rate would settle at 40 per cent.
+Implications and policy
+1. Creating urban jobs can worsen unemployment: a higher N_u raises p, which attracts more migrants than there are new jobs (the Todaro paradox). The unemployment rate may rise.
+2. Wage subsidies and minimum wage rises in the cities increase unemployment.
+3. Rural development (irrigation, rural infrastructure, credit, rural industries, employment guarantee schemes like MGNREGA in India) reduces the rural-urban income gap and relieves migration pressure.
+4. Education policy: expanding schooling leads to credentials inflation and more migrants.
+5. Remove distortions in urban wage setting; promote labour-intensive technology.
+6. Better public services in villages.
+Relevance to resource constraints
+By reducing excessive concentration in cities and promoting rural productivity, the policy lowers pressure on urban infrastructure, food and land, and helps break resource bottlenecks.
+Criticisms
+Ignores the informal sector as a real source of income (extended models include it), risk preferences, migrant networks and remittances; seasonality and the role of family decisions.
+Conclusion
+Harris-Todaro shows that urban unemployment is a rational equilibrium outcome, so development policy must focus on rural opportunities, not only urban job creation.

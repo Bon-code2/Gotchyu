@@ -1,0 +1,26 @@
+28. The Harrod–Domar Model
+Paper: Economics of Growth and Development I (ECNCC302) | Unit: III | Topic: Basic features of modern economic growth; growth models – Harrod-Domar model
+Introduction
+The Harrod-Domar model (Roy Harrod 1939, Evsey Domar 1946) extends Keynesian analysis to the long run, showing how investment creates both income and capacity. It became the foundation of early development planning, including India's Second Five Year Plan.
+Features of modern economic growth (Kuznets)
+High rates of per capita output and population growth, high productivity growth, rapid structural transformation (agriculture to industry and services), urbanisation, and international spread of technology and trade.
+Assumptions
+Closed economy without government; fixed capital-output ratio (v) and fixed proportions production; constant average propensity to save (s); no depreciation (in the simple version); full employment as the initial condition.
+The model
+Three key ideas: investment raises demand (multiplier) and creates capacity.
+g = \frac{\Delta Y}{Y} = \frac{s}{v}
+Here g is the growth rate, s the saving rate and v (the capital-output ratio, K/Y) is the amount of capital needed for a unit of output. With depreciation d, g = s/v - d. For example, if s = 20 per cent and v = 4, then g = 5 per cent.
+Warranted, actual and natural growth rates
+• Warranted rate (g_w = s/v): the rate at which firms are satisfied with the capacity they have built.
+• Actual rate (g): observed growth.
+• Natural rate (g_n): maximum rate from labour force growth and technical progress.
+If g > g_w, shortage of capacity leads to inflation and further investment: the economy moves away from equilibrium. If g < g_w, excess capacity and depression result. This is the knife-edge problem: instability of equilibrium growth. Full employment requires g_w = g_n, which is a coincidence.
+Relevance for development
+The model suggests raising savings and investment, or lowering the capital-output ratio, to speed growth. It supports the "capital shortage" view, foreign aid (the two-gap models), and planning.
+Criticisms
+• Fixed coefficients and constant savings ignore factor substitution and price adjustments.
+• Instability conclusion depends on that rigidity; Solow's neoclassical model removes it.
+• Ignores technology, human capital and institutions.
+• Treats growth as a function of investment only.
+Conclusion
+Despite its limitations, Harrod-Domar remains a useful accounting framework and underpins estimates of investment requirements for target growth.

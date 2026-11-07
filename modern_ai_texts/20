@@ -1,0 +1,22 @@
+20. Monetary Approach and Asset Market Model of Exchange Rate
+Paper: International Economics (ECNCC301) | Unit: IV | Topic: Monetary approach to BoP and exchange rate, asset market model, exchange rate, domestic prices and terms of trade
+Introduction
+The traditional flow approach treats the exchange rate as clearing trade flows. Modern theories treat the exchange rate as the relative price of two monies or two assets, determined in stock (asset) markets.
+Monetary approach to the balance of payments
+Developed by Harry Johnson, Robert Mundell and Jacob Frenkel. A BoP deficit or surplus is a monetary phenomenon: it reflects a disparity between money demand and money supply.
+• Money supply M_s = domestic credit (D) + foreign reserves (R).
+• Money demand M_d = a stable function of income, prices and interest rate.
+• In equilibrium, a change in reserves = change in money demand - change in domestic credit.
+Excess domestic credit creation leads to reserve loss (deficit); excess money demand leads to reserve gain. Under fixed exchange rates, the BoP automatically corrects itself, so devaluation has only a temporary effect. Policy implication: control domestic credit.
+Monetary approach to exchange rates
+Under floating rates, the price of foreign exchange is determined by relative money supplies and demands, together with purchasing power parity (PPP):
+e = \frac{M_d}{M_f} \cdot \frac{L_f(y_f, i_f)}{L_d(y_d, i_d)}
+In short: a higher domestic money supply growth leads to domestic currency depreciation. Variants are the flexible-price model (Frenkel-Bilson) and the sticky-price (overshooting) model (Dornbusch, 1976), in which the exchange rate overshoots its long-run value after a monetary shock because goods prices adjust slowly.
+Asset market (portfolio balance) model
+Investors hold a portfolio of domestic money, domestic bonds and foreign bonds. Exchange rates adjust until investors are willing to hold existing stocks of assets. Determinants: interest differentials, expected exchange rate changes, risk premium, and wealth. A current account surplus raises national wealth and the supply of foreign assets, which affects the exchange rate. Capital flows dominate short-term movements.
+Exchange rate, domestic prices and terms of trade
+Depreciation raises import prices and the domestic price level (pass-through), improves competitiveness, and worsens the terms of trade in the short run (import prices up relative to export prices) if export prices are set in domestic currency. Pass-through is incomplete in practice.
+Evaluation
+These models explain long-run trends but perform poorly in predicting short-run movements (Meese-Rogoff puzzle).
+Conclusion
+The monetary and asset market views stress that exchange rates are driven by monetary policy, expectations and financial flows, not only by trade.

@@ -1,0 +1,26 @@
+58. Secondary Data, Census and Sampling
+Paper: Data Collection and Analysis for Social Science Research (ECNAEC301) | Unit: I | Topic: Primary and secondary data: meanings; characteristics of secondary data; census and sampling
+Introduction
+Data for research come from primary sources and secondary sources. The choice between collecting all units (census) or a part (sample) is also basic to research design.
+Primary versus secondary data
+• Primary data: collected afresh for the first time, by the researcher, for the problem at hand. Original, specific, but costly and slow.
+• Secondary data: already collected by someone else for another purpose and used by the researcher. Examples: Census of India, NSSO/NSO surveys (PLFS, consumption expenditure), RBI Handbook of Statistics, Economic Survey, World Bank data, published reports, journals, company records.
+Characteristics of secondary data
+Advantages: cheap, quick, wide coverage, allow time-series and cross-country comparisons, and useful for background. Limitations: may not fit research objectives, may be outdated, different definitions and units, unknown accuracy, and potential bias.
+Criteria before use (Bowley): suitability (objectives, definitions, units match), reliability (compiler's expertise, source, methods), adequacy (coverage, time period). Check for consistency and compare with other sources.
+Census method
+Enumeration of every unit in the population (Census of India every ten years; Economic Census).
+• Merits: complete, accurate for each unit, good for small populations and detailed regional data, no sampling error.
+• Demerits: costly, time-consuming, large staff, not feasible for destructive or infinite populations, non-sampling errors may be large.
+Sampling method
+Selecting a part of the population to infer about the whole.
+• Merits: lower cost and time, faster results, greater depth, possibility of quality control, often better accuracy through trained staff.
+• Demerits: sampling error, risk of bias, difficult if population is heterogeneous, requires expertise in design.
+Types:
+1. Probability (random) sampling: simple random, systematic, stratified, cluster, multi-stage (used by NSSO). Each unit has a known chance of selection, so sampling error can be measured.
+2. Non-probability sampling: convenience, judgement (purposive), quota and snowball. Cheap but cannot estimate sampling error.
+Sample size depends on variability, desired precision, confidence level and cost. Errors: sampling error versus non-sampling error (non-response, measurement, coverage).
+When to use which
+Census for small, homogeneous or legally required counts; sampling for large populations and time-constrained research.
+Conclusion
+Secondary data save time but need critical evaluation; census gives full coverage, while well-designed sampling provides reliable, economical estimates.

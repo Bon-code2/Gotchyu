@@ -1,0 +1,19 @@
+59. Data Presentation: Graphs, Diagrams, Tables, Reliability and Validity
+Paper: Data Collection and Analysis for Social Science Research (ECNAEC301) | Unit: II | Topic: Data analysis – reliability and validity; graphs and diagrams; tabular presentation; quantitative tools
+Introduction
+After collection, data must be checked for quality and presented clearly. Reliability and validity measure the quality of data; tables and diagrams communicate them.
+Reliability and validity
+Reliability is the consistency of a measure: repeated measurement gives the same result. Methods: test-retest, split-half, parallel forms, and internal consistency (Cronbach's alpha, where above 0.7 is usually acceptable).
+Validity is whether the instrument measures what it claims to measure. Types: content validity (covers the concept), criterion validity (agrees with an established measure: concurrent or predictive), construct validity (matches theory), face validity. Internal validity (causal inference) and external validity (generalisability) matter for study design. A measure can be reliable without being valid, but cannot be valid unless reliable.
+Tabular presentation
+A table arranges data in rows and columns. Parts: table number, title, caption (column headings), stub (row headings), body, head-note and footnote, source. Types: simple (single) table with one characteristic, double (two characteristics), multiple or complex tables (three or more). Rules: clear title, logical order, units stated, totals shown, simplicity.
+Graphs and diagrams
+One-dimensional (bar) diagrams: simple bar, subdivided (component) bar, multiple bar (compares several series side by side) and deviation bar (positive and negative values such as profit/loss). Length of bar represents value.
+Two-dimensional: histogram (frequency distribution with continuous classes; area proportional to frequency), pie diagram (circle divided into sectors proportional to components: angle = value/total x 360), rectangles, squares.
+Three-dimensional: rectangular prisms (blocks) and cubes, used to show large variation in values; harder to read.
+Pictograms: pictures or symbols represent values; attractive, for general audiences. Cartograms: data shown on maps (shaded by value, dots, or proportional symbols).
+Other: scatter diagram (relationship between two variables, showing correlation), line diagram (trend over time), radar (spider) diagram (multiple variables on axes from a centre, for comparing profiles).
+Quantitative tools
+Measures of central tendency (mean, median, mode), dispersion (range, standard deviation, coefficient of variation), correlation and regression, index numbers, time-series analysis, and basic statistical software such as Excel, SPSS, Stata or R.
+Conclusion
+Reliable and valid data, presented through well-constructed tables and suitable diagrams, make research findings credible and easy to understand.
